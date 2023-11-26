@@ -1,1 +1,1 @@
-alert("foi")
+console.log("foi")
